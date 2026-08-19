@@ -1,0 +1,47 @@
+{
+  "home": {
+    "chars": 3551,
+    "height": 3558,
+    "per1000": 998
+  },
+  "home-level-A1": {
+    "chars": 3877,
+    "height": 3881,
+    "per1000": 999
+  },
+  "adult-index": {
+    "chars": 943,
+    "height": 1373,
+    "per1000": 687
+  },
+  "adult-dashboard": {
+    "chars": 649,
+    "height": 800,
+    "per1000": 811
+  },
+  "parents-dashboard": {
+    "chars": 574,
+    "height": 800,
+    "per1000": 718
+  },
+  "studio-governance": {
+    "chars": 1668,
+    "height": 1291,
+    "per1000": 1292
+  },
+  "schools-roster": {
+    "chars": 379,
+    "height": 800,
+    "per1000": 474
+  },
+  "studio-credits": {
+    "chars": 1807,
+    "height": 1227,
+    "per1000": 1473
+  },
+  "lesson-interactions": {
+    "chars": 2068,
+    "height": 1494,
+    "per1000": 1384
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "network": [
+    {
+      "page": "Access Panel home",
+      "path": "/",
+      "calls": [
+        {
+          "method": "GET",
+          "path": "/api/auth/me",
+          "status": 401
+        },
+        {
+          "method": "GET",
+          "path": "/api/auth/pathways",
+          "status": 200
+        },
+        {
+          "method": "POST",
+          "path": "/api/auth/refresh",
+          "status": 308
+        },
+        {
+          "method": "POST",
+          "path": "/api/auth/refresh/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "page": "Adult dashboard",
+      "path": "/app/adult/dashboard/",
+      "calls": [
+        {
+          "method": "GET",
+          "path": "/api/auth/me",
+          "status": 401
+        },
+        {
+          "method": "GET",
+          "path": "/api/curriculum/deep-summary",
+          "status": 200
+        },
+        {
+          "method": "GET",
+          "path": "/api/engine/schedule",
+          "status": 401
+        },
+        {
+          "method": "GET",
+          "path": "/api/progress",
+          "status": 401
+        },
+        {
+          "method": "POST",
+          "path": "/api/auth/refresh",
+          "status": 308
+        },
+        {
+          "method": "POST",
+          "path": "/api/auth/refresh/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "page": "Parent dashboard",
+      "path": "/app/parents/dashboard/",
+      "calls": [
+        {
+          "method": "GET",
+          "path": "/api/auth/me",
+          "status": 401
+        },
+        {
+          "method": "GET",
+          "path": "/api/school/parent/dashboard",
+          "status": 401
+        },
+        {
+          "method": "POST",
+          "path": "/api/auth/refresh",
+          "status": 308
+        },
+        {
+          "method": "POST",
+          "path": "/api/auth/refresh/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "page": "School roster",
+      "path": "/app/schools/roster/",
+      "calls": [
+        {
+          "method": "GET",
+          "path": "/api/auth/me",
+          "status": 401
+        },
+        {
+          "method": "GET",
+          "path": "/api/school/classes",
+          "status": 401
+        },
+        {
+          "method": "POST",
+          "path": "/api/auth/refresh",
+          "status": 308
+        },
+        {
+          "method": "POST",
+          "path": "/api/auth/refresh/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "page": "School admin overview",
+      "path": "/app/schools/dashboard/",
+      "calls": [
+        {
+          "method": "GET",
+          "path": "/api/auth/me",
+          "status": 401
+        },
+        {
+          "method": "GET",
+          "path": "/api/integrations/status",
+          "status": 200
+        },
+        {
+          "method": "GET",
+          "path": "/api/school/admin/overview",
+          "status": 401
+        },
+        {
+          "method": "POST",
+          "path": "/api/auth/refresh",
+          "status": 308
+        },
+        {
+          "method": "POST",
+          "path": "/api/auth/refresh/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "page": "Studio AI governance",
+      "path": "/app/studio/governance/",
+      "calls": [
+        {
+          "method": "GET",
+          "path": "/api/auth/me",
+          "status": 401
+        },
+        {
+          "method": "GET",
+          "path": "/api/studio/ai/governance",
+          "status": 401
+        },
+        {
+          "method": "GET",
+          "path": "/api/tutor/admin/prompts",
+          "status": 401
+        },
+        {
+          "method": "POST",
+          "path": "/api/auth/refresh",
+          "status": 308
+        },
+        {
+          "method": "POST",
+          "path": "/api/auth/refresh/",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "page": "Studio AI Credits",
+      "path": "/app/studio/credits/",
+      "calls": [
+        {
+          "method": "GET",
+          "path": "/api/auth/me",
+          "status": 401
+        },
+        {
+          "method": "POST",
+          "path": "/api/auth/refresh",
+          "status": 308
+        },
+        {
+          "method": "POST",
+          "path": "/api/auth/refresh/",
+          "status": 404
+        }
+      ]
+    }
+  ],
+  "role_states": [
+    {
+      "status": 401,
+      "body": "{\"error\":\"unauthorized\"}",
+      "expected": "Sign in to load this account data.",
+      "shown": true
+    },
+    {
+      "status": 402,
+      "body": "{\"error\":\"payment required\"}",
+      "expected": "An active lesson or subscription entitlement is required.",
+      "shown": true
+    },
+    {
+      "status": 403,
+      "body": "{\"error\":\"administrator role required\"}",
+      "expected": "An administrator role is required to view these records.",
+      "shown": true
+    },
+    {
+      "status": 403,
+      "body": "{\"error\":\"forbidden\"}",
+      "expected": "This account does not have permission to view these records.",
+      "shown": true
+    }
+  ]
+}

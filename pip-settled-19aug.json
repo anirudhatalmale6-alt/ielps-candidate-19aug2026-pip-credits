@@ -1,0 +1,1639 @@
+[
+  {
+    "viewport": "desktop",
+    "page": "Access Panel home",
+    "path": "/",
+    "stops": 5,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 1,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 1093,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 1,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 1093,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 2,
+        "pip": {
+          "w": 52,
+          "h": 52,
+          "x": 1208,
+          "y": 696
+        },
+        "placement": "cleared",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 3,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 1093,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 4,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 1093,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "desktop",
+    "page": "Access Panel, level chosen",
+    "path": "/?level=A1",
+    "stops": 5,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 1093,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 20,
+        "hits": []
+      },
+      {
+        "stop": 1,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 1093,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 20,
+        "hits": []
+      },
+      {
+        "stop": 2,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 1093,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 20,
+        "hits": []
+      },
+      {
+        "stop": 3,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 1093,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 20,
+        "hits": []
+      },
+      {
+        "stop": 4,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 1093,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 20,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "desktop",
+    "page": "Adult mini-app index",
+    "path": "/app/adult/",
+    "stops": 2,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 1,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 52,
+          "h": 52,
+          "x": 1208,
+          "y": 728
+        },
+        "placement": "cleared",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 1,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 1093,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "desktop",
+    "page": "Adult dashboard",
+    "path": "/app/adult/dashboard/",
+    "stops": 1,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 1093,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 15,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "desktop",
+    "page": "Adult learner (gated)",
+    "path": "/app/adult/learner/",
+    "stops": 1,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 1093,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 2,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "desktop",
+    "page": "Parent dashboard",
+    "path": "/app/parents/dashboard/",
+    "stops": 1,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 1093,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 10,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "desktop",
+    "page": "School roster",
+    "path": "/app/schools/roster/",
+    "stops": 1,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 1093,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 10,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "desktop",
+    "page": "School admin overview",
+    "path": "/app/schools/dashboard/",
+    "stops": 1,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 1093,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 10,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "desktop",
+    "page": "Studio AI governance",
+    "path": "/app/studio/governance/",
+    "stops": 2,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 1093,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 12,
+        "hits": []
+      },
+      {
+        "stop": 1,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 1093,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 12,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "desktop",
+    "page": "Studio AI Credits",
+    "path": "/app/studio/credits/",
+    "stops": 2,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 1093,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 12,
+        "hits": []
+      },
+      {
+        "stop": 1,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 1093,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 12,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "desktop",
+    "page": "Lesson Player / Reading",
+    "path": "/preview/lesson-interactions/",
+    "stops": 2,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 1093,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 1,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 1093,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "tablet",
+    "page": "Access Panel home",
+    "path": "/",
+    "stops": 7,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 1,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 2,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 3,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 4,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 5,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 6,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "tablet",
+    "page": "Access Panel, level chosen",
+    "path": "/?level=A1",
+    "stops": 7,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 20,
+        "hits": []
+      },
+      {
+        "stop": 1,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 20,
+        "hits": []
+      },
+      {
+        "stop": 2,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 20,
+        "hits": []
+      },
+      {
+        "stop": 3,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 20,
+        "hits": []
+      },
+      {
+        "stop": 4,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 20,
+        "hits": []
+      },
+      {
+        "stop": 5,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 20,
+        "hits": []
+      },
+      {
+        "stop": 6,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 20,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "tablet",
+    "page": "Adult mini-app index",
+    "path": "/app/adult/",
+    "stops": 3,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 1,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 1,
+        "pip": {
+          "w": 52,
+          "h": 52,
+          "x": 828,
+          "y": 184
+        },
+        "placement": "cleared",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 2,
+        "pip": {
+          "w": 52,
+          "h": 52,
+          "x": 884,
+          "y": 728
+        },
+        "placement": "tucked",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "tablet",
+    "page": "Adult dashboard",
+    "path": "/app/adult/dashboard/",
+    "stops": 2,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 15,
+        "hits": []
+      },
+      {
+        "stop": 1,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 15,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "tablet",
+    "page": "Adult learner (gated)",
+    "path": "/app/adult/learner/",
+    "stops": 1,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 2,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "tablet",
+    "page": "Parent dashboard",
+    "path": "/app/parents/dashboard/",
+    "stops": 1,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 10,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "tablet",
+    "page": "School roster",
+    "path": "/app/schools/roster/",
+    "stops": 1,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 10,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "tablet",
+    "page": "School admin overview",
+    "path": "/app/schools/dashboard/",
+    "stops": 1,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 10,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "tablet",
+    "page": "Studio AI governance",
+    "path": "/app/studio/governance/",
+    "stops": 2,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 12,
+        "hits": []
+      },
+      {
+        "stop": 1,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 12,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "tablet",
+    "page": "Studio AI Credits",
+    "path": "/app/studio/credits/",
+    "stops": 2,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 12,
+        "hits": []
+      },
+      {
+        "stop": 1,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 12,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "tablet",
+    "page": "Lesson Player / Reading",
+    "path": "/preview/lesson-interactions/",
+    "stops": 2,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 1,
+        "pip": {
+          "w": 167,
+          "h": 66,
+          "x": 713,
+          "y": 714
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "mobile",
+    "page": "Access Panel home",
+    "path": "/",
+    "stops": 9,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 1,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 2,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 3,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 4,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 5,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 6,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 7,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 8,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "mobile",
+    "page": "Access Panel, level chosen",
+    "path": "/?level=A1",
+    "stops": 9,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 20,
+        "hits": []
+      },
+      {
+        "stop": 1,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 20,
+        "hits": []
+      },
+      {
+        "stop": 2,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 20,
+        "hits": []
+      },
+      {
+        "stop": 3,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 20,
+        "hits": []
+      },
+      {
+        "stop": 4,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 20,
+        "hits": []
+      },
+      {
+        "stop": 5,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 20,
+        "hits": []
+      },
+      {
+        "stop": 6,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 20,
+        "hits": []
+      },
+      {
+        "stop": 7,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 20,
+        "hits": []
+      },
+      {
+        "stop": 8,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 20,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "mobile",
+    "page": "Adult mini-app index",
+    "path": "/app/adult/",
+    "stops": 4,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 1,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 1,
+        "pip": {
+          "w": 44,
+          "h": 44,
+          "x": 332,
+          "y": 266
+        },
+        "placement": "cleared",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 2,
+        "pip": {
+          "w": 44,
+          "h": 44,
+          "x": 374,
+          "y": 722
+        },
+        "placement": "tucked",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 3,
+        "pip": {
+          "w": 44,
+          "h": 44,
+          "x": 374,
+          "y": 722
+        },
+        "placement": "tucked",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "mobile",
+    "page": "Adult dashboard",
+    "path": "/app/adult/dashboard/",
+    "stops": 2,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 15,
+        "hits": []
+      },
+      {
+        "stop": 1,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 15,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "mobile",
+    "page": "Adult learner (gated)",
+    "path": "/app/adult/learner/",
+    "stops": 1,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 2,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "mobile",
+    "page": "Parent dashboard",
+    "path": "/app/parents/dashboard/",
+    "stops": 2,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 10,
+        "hits": []
+      },
+      {
+        "stop": 1,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 10,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "mobile",
+    "page": "School roster",
+    "path": "/app/schools/roster/",
+    "stops": 1,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 10,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "mobile",
+    "page": "School admin overview",
+    "path": "/app/schools/dashboard/",
+    "stops": 2,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 10,
+        "hits": []
+      },
+      {
+        "stop": 1,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 10,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "mobile",
+    "page": "Studio AI governance",
+    "path": "/app/studio/governance/",
+    "stops": 3,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 12,
+        "hits": []
+      },
+      {
+        "stop": 1,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 12,
+        "hits": []
+      },
+      {
+        "stop": 2,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 12,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "mobile",
+    "page": "Studio AI Credits",
+    "path": "/app/studio/credits/",
+    "stops": 3,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 0,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 12,
+        "hits": []
+      },
+      {
+        "stop": 1,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 12,
+        "hits": []
+      },
+      {
+        "stop": 2,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 12,
+        "hits": []
+      }
+    ]
+  },
+  {
+    "viewport": "mobile",
+    "page": "Lesson Player / Reading",
+    "path": "/preview/lesson-interactions/",
+    "stops": 3,
+    "stops_with_blocked_controls": 0,
+    "stops_where_pip_moved": 1,
+    "obstructed_stops": 0,
+    "detail": [
+      {
+        "stop": 0,
+        "pip": {
+          "w": 44,
+          "h": 44,
+          "x": 332,
+          "y": 658
+        },
+        "placement": "cleared",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 1,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      },
+      {
+        "stop": 2,
+        "pip": {
+          "w": 60,
+          "h": 60,
+          "x": 316,
+          "y": 706
+        },
+        "placement": "anchored",
+        "motion": "settled",
+        "obstructed": false,
+        "controls": 13,
+        "hits": []
+      }
+    ]
+  }
+]

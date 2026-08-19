@@ -1,0 +1,815 @@
+[
+  {
+    "method": "GET",
+    "path": "/api/addons/starpath/assignments",
+    "backend": "/api/addons/starpath/assignments",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/studio.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/addons/starpath/resources",
+    "backend": "/api/addons/starpath/resources",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/studio.ts",
+      "lib/ielps-data.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/assessment/level-check",
+    "backend": "/api/assessment/level-check",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/ielps-data.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/assessment/level-check?limit=144",
+    "backend": "/api/assessment/level-check",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/adult.ts",
+      "lib/ielps-data.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/auth/pathways",
+    "backend": "/api/auth/pathways",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/ielps-data.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/authoring/projects",
+    "backend": "/api/authoring/projects",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/studio.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/billing/connect/payouts",
+    "backend": "/api/billing/connect/payouts",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/tutors.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/billing/connect/status",
+    "backend": "/api/billing/connect/status",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/tutors.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/billing/plans",
+    "backend": "/api/billing/plans",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/parents.ts",
+      "lib/apps/schools.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/billing/subscription",
+    "backend": "/api/billing/subscription",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/adult.ts",
+      "lib/apps/parents.ts",
+      "lib/apps/schools.ts",
+      "lib/ielps-data.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/certificates/eligibility/B1",
+    "backend": "/api/certificates/eligibility/:level",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/adult.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/compliance/privacy-export",
+    "backend": "/api/compliance/privacy-export",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/schools.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/curriculum/deep-catalog",
+    "backend": "/api/curriculum/deep-catalog",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/lesson-player/spec.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/curriculum/deep-summary",
+    "backend": "/api/curriculum/deep-summary",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/adult.ts",
+      "lib/apps/junior.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/discovery/catalogue",
+    "backend": "/api/discovery/catalogue",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/adult.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/engine/mastery",
+    "backend": "/api/engine/mastery",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/adult.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/engine/next",
+    "backend": "/api/engine/next",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/adult.ts",
+      "lib/lesson-player/spec.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/engine/review-queue",
+    "backend": "/api/engine/review-queue",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/adult.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/engine/schedule",
+    "backend": "/api/engine/schedule",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/adult.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/gamification/leaderboard",
+    "backend": "/api/gamification/leaderboard",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/junior.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/gamification/profile",
+    "backend": "/api/gamification/profile",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/junior.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/integrations/status",
+    "backend": "/api/integrations/status",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/schools.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/lesson-support/language-context",
+    "backend": "/api/lesson-support/language-context",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/lesson-player/spec.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/lesson-support/lessons/:id/engine-15",
+    "backend": "/api/lesson-support/lessons/:id/engine-15",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/lesson-player/spec.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/lesson-support/lessons/:id/image-briefs",
+    "backend": "/api/lesson-support/lessons/:id/image-briefs",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/lesson-player/spec.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/partners/dashboard",
+    "backend": "/api/partners/dashboard",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/adult.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/pedagogy/feedback-banks",
+    "backend": "/api/pedagogy/feedback-banks",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/lesson-player/spec.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/practice/catalog?level=A1&limit=6",
+    "backend": "/api/practice/catalog",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/junior.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/practice/filters",
+    "backend": "/api/practice/filters",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/adult.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/practice/next",
+    "backend": "/api/practice/next",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/junior.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/progress",
+    "backend": "/api/progress",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/adult.ts",
+      "lib/apps/junior.ts",
+      "lib/apps/parents.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/resources/starfall-splashlearn/audio-scripts/:lessonId",
+    "backend": "/api/resources/starfall-splashlearn/audio-scripts/:lessonId",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/lesson-player/spec.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/review/due",
+    "backend": "/api/review/due",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/adult.ts",
+      "lib/apps/junior.ts",
+      "lib/lesson-player/spec.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/roster/organizations/:id/connections",
+    "backend": "/api/roster/organizations/:id/connections",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/ielps-data.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/school/admin/overview",
+    "backend": "/api/school/admin/overview",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/schools.ts",
+      "lib/ielps-data.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/school/assignments/:id",
+    "backend": "/api/school/assignments/:id",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/teachers.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/school/classes",
+    "backend": "/api/school/classes",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/schools.ts",
+      "lib/apps/teachers.ts",
+      "lib/ielps-data.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/school/classes/:id",
+    "backend": "/api/school/classes/:id",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/teachers.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/school/classes/:id/export",
+    "backend": "/api/school/classes/:id/export",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/teachers.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/school/classes/:id/report",
+    "backend": "/api/school/classes/:id/report",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/teachers.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/school/dashboard",
+    "backend": "/api/school/dashboard",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/teachers.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/school/organizations/:id/export",
+    "backend": "/api/school/organizations/:id/export",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/schools.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/school/parent/dashboard",
+    "backend": "/api/school/parent/dashboard",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/parents.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/studio/ai/governance",
+    "backend": "/api/studio/ai/governance",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/studio.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/studio/coursebook/projects/:projectId/generations",
+    "backend": "/api/studio/coursebook/projects/:projectId/generations",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/studio.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/studio/coursebook/projects/:projectId/uploads",
+    "backend": "/api/studio/coursebook/projects/:projectId/uploads",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/studio.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/studio/coursebook/sequence/default",
+    "backend": "/api/studio/coursebook/sequence/default",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/studio.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/tutor/admin/prompts",
+    "backend": "/api/tutor/admin/prompts",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/studio.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/tutor/conversations",
+    "backend": "/api/tutor/conversations",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/adult.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/tutor/quota",
+    "backend": "/api/tutor/quota",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/adult.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/tutoring/application",
+    "backend": "/api/tutoring/application",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/tutors.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/tutoring/bookings",
+    "backend": "/api/tutoring/bookings",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/adult.ts",
+      "lib/apps/junior.ts",
+      "lib/apps/tutors.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/tutoring/safeguarding-policy",
+    "backend": "/api/tutoring/safeguarding-policy",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/tutors.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/tutoring/tutors",
+    "backend": "/api/tutoring/tutors",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/adult.ts",
+      "lib/ielps-data.ts"
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/api/tutoring/tutors/:id/availability",
+    "backend": "/api/tutoring/tutors/:id/availability",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/tutors.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/activities/:lessonId/submissions",
+    "backend": "/api/activities/:lessonId/submissions",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/lesson-player/spec.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/addons/starpath/assignments",
+    "backend": "/api/addons/starpath/assignments",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/studio.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/assessment/grade-writing",
+    "backend": "/api/assessment/grade-writing",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/lesson-player/spec.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/assessment/level-check/score",
+    "backend": "/api/assessment/level-check/score",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/adult.ts",
+      "lib/ielps-data.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/assessment/placement/calibrate",
+    "backend": "/api/assessment/placement/calibrate",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/ielps-data.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/assessment/pronunciation",
+    "backend": "/api/assessment/pronunciation",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/lesson-player/spec.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/auth/child-profiles",
+    "backend": "/api/auth/child-profiles",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/parents.ts",
+      "lib/ielps-data.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/auth/register",
+    "backend": "/api/auth/register",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/adult.ts",
+      "lib/apps/parents.ts",
+      "lib/apps/teachers.ts",
+      "lib/ielps-data.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/auth/student-login",
+    "backend": "/api/auth/student-login",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/junior.ts",
+      "lib/ielps-data.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/auth/student-profiles",
+    "backend": "/api/auth/student-profiles",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/junior.ts",
+      "lib/ielps-data.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/authoring/projects",
+    "backend": "/api/authoring/projects",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/studio.ts",
+      "lib/ielps-data.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/authoring/projects/:id/publish",
+    "backend": "/api/authoring/projects/:id/publish",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/studio.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/authoring/projects/:id/validate",
+    "backend": "/api/authoring/projects/:id/validate",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/studio.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/classroom/sessions",
+    "backend": "/api/classroom/sessions",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/tutors.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/progress/lesson",
+    "backend": "/api/progress/lesson",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/adult.ts",
+      "lib/lesson-player/spec.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/review/attempts",
+    "backend": "/api/review/attempts",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/lesson-player/spec.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/school/classes",
+    "backend": "/api/school/classes",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/teachers.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/school/classes/:id/assignments",
+    "backend": "/api/school/classes/:id/assignments",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/teachers.ts",
+      "lib/ielps-data.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/school/classes/:id/bulk-import",
+    "backend": "/api/school/classes/:id/bulk-import",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/schools.ts",
+      "lib/apps/teachers.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/school/organizations",
+    "backend": "/api/school/organizations",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/schools.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/school/parent/links",
+    "backend": "/api/school/parent/links",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/parents.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/school/parent/links/confirm",
+    "backend": "/api/school/parent/links/confirm",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/parents.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/studio/coursebook/projects/:id/uploads/pdf",
+    "backend": "/api/studio/coursebook/projects/:projectId/uploads/pdf",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/ielps-data.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/studio/coursebook/projects/:projectId/generations",
+    "backend": "/api/studio/coursebook/projects/:projectId/generations",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/studio.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/studio/coursebook/projects/:projectId/uploads/pdf",
+    "backend": "/api/studio/coursebook/projects/:projectId/uploads/pdf",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/studio.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/tutor/chat",
+    "backend": "/api/tutor/chat",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/lesson-player/spec.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/tutor/chat/stream",
+    "backend": "/api/tutor/chat/stream",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/lesson-player/spec.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/tutoring/application/availability",
+    "backend": "/api/tutoring/application/availability",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/tutors.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/tutoring/application/background",
+    "backend": "/api/tutoring/application/background",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/tutors.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/tutoring/application/identity",
+    "backend": "/api/tutoring/application/identity",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/tutors.ts",
+      "lib/ielps-data.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/tutoring/application/submit",
+    "backend": "/api/tutoring/application/submit",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/apps/tutors.ts"
+    ]
+  },
+  {
+    "method": "POST",
+    "path": "/api/tutoring/bookings",
+    "backend": "/api/tutoring/bookings",
+    "status": "MATCHED",
+    "declared_in": [
+      "lib/ielps-data.ts"
+    ]
+  }
+]
